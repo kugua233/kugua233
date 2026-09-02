@@ -6,5 +6,5 @@ Discovering and sharing open-source projects and productivity tools：
 
 [Fortune Teller Online](https://www.fortunetelleronline.app) - Free AI-Assisted Tarot Reading
 
-[Seating Chart Generator ](https://www.seatingchartgenerator.app) - Free online seating chart generator with drag-and-drop guests
+[Seating Chart Generator](https://www.seatingchartgenerator.app) - Free online seating chart generator with drag-and-drop guests
 
